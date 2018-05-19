@@ -6,7 +6,7 @@ body{
 
 #landing{
     height: 100vh;
-    background-image: url('https://images.unsplash.com/photo-1525342631975-cfc922fe0b05?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=b81451b2052566b1fd5402d5e4db3e3d&auto=format&fit=crop&w=2132&q=80');
+    background-image: url("assets/images/laptop.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
