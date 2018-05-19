@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(61,61,61);
+    color: rgba(255,255,255,0.8);
+    font-family: 'Poppins', sans-serif;
+}
+
+#landing{
+    height: 100vh;
+    background-image: url('https://images.unsplash.com/photo-1525342631975-cfc922fe0b05?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=b81451b2052566b1fd5402d5e4db3e3d&auto=format&fit=crop&w=2132&q=80');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    z-index: -1;
+}
+
+#mainText{
+    margin-top: 30vh;
+}
+
+#intro{
+    margin-top: 50px;
+}
+
+#work{
+    background-color: rgb(61,61,61);
+}
+
+#p1{
+    height: 350px;
+}
