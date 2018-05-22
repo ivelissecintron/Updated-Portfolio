@@ -3,19 +3,8 @@ body{
     color: rgba(255,255,255,0.8);
     font-family: 'Poppins', sans-serif;
 }
-
-#landing{
-    height: 100vh;
-    background-image: url("assets/images/laptop.jpg");
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    z-index: -1;
-}
-
 #mainText{
-    margin-top: 30vh;
+    margin-top: 5vh;
 }
 
 #intro{
